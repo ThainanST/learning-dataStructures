@@ -8,5 +8,8 @@ __Currently, it is offered Data Structure Classes for the following topics:__
 
 | __Class__ | __Description__ |
 | ------ | ----------- |
-| *Class 01*  | First structure |
-| *Class 02*  | Sequential Linear List |
+| *Class 01*  | Setting VScode  |
+| *Class 02*  | Creating a first structure |
+| *Class 03*  | Sequential List |
+
+
